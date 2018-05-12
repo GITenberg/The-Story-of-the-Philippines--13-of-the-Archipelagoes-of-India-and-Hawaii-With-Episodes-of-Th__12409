@@ -1,7 +1,10 @@
 _repo: The-Story-of-the-Philippines--13-of-the-Archipelagoes-of-India-and-Hawaii-With-Episodes-of-Th__12409
-_version: 0.0.1
+_version: 0.1.0
 alternative_title: "The Story of the Philippines and Our New Possessions,\r\nIncluding\
   \ the Ladrones, Hawaii, Cuba and Porto Rico"
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Halstead, Murat
@@ -11,6 +14,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4350
     wikipedia: http://en.wikipedia.org/wiki/Murat_Halstead
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12409#The-Story-of-the-Philippines--13-of-the-Archipelagoes-of-India-and-Hawaii-With-Episodes-of-Th_
 gutenberg_issued: '2004-05-01'
 gutenberg_type: Text
 identifiers:
